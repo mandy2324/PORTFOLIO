@@ -1,0 +1,22 @@
+ol,
+ul {
+    flex-direction: row;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav {
+    color: #ffc107;
+    text-decoration: none;
+}
+
+a.footer {
+    color: #ffc107;
+    text-decoration: none;
+}
+
+p.font-weight-bold {
+    text-align: center;
+    height: 3rem;
+    font-weight: bold;
+}
