@@ -20,3 +20,11 @@ p.font-weight-bold {
     height: 3rem;
     font-weight: bold;
 }
+
+#pw-img {
+    max-height: 180px;
+}
+
+.card {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
